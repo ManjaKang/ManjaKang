@@ -1,45 +1,34 @@
-# Hi there, I'm [Your Name] 👋
+# 프론트엔드 개발자 강민재입니다! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/Manjakang?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/Manjakang?label=Follow&style=social)
+## 책임감 있는 프론트엔트 개발자 강민재입니다.
 
-## I'm a Developer, Tech Enthusiast, and a Lifelong Learner!
+저는 프로젝트 일정을 지키는 것을 가장 중요시 합니다. 스스로 개발 역량을 이해하고 개발 리소스를 관리하는 것이 팀원으로써 가장 중요한 일이라고 생각합니다.
 
-- 🔭 I’m currently working on [Project Name](https://github.com/yourusername/project)!
-- 🌱 I’m currently learning [Technology or Framework]!
-- 👯 I’m looking to collaborate on [Open Source/Commercial projects]!
-- 🤔 I’m looking for help with [Technology or Framework]!
-- 💬 Ask me about [Technology or Language]!
-- 📫 How to reach me: [your@email.com](mailto:your@email.com) or [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- 😄 Pronouns: [He/Him/She/Her/They/Them]
-- ⚡ Fun fact: [Something interesting about you]
+> ✏️ 저는 2022년 삼성 청년 소프트웨어아카데미를 통해 개발자가 되었습니다. 
+아래에 제 1년간의 성장이 기록되어 있습니다.
 
-### Connect with me:
-
-[<img align="left" alt="yourusername | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yourusername/)
-[<img align="left" alt="yourusername | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/yourusername)
-[<img align="left" alt="yourusername | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />](https://yourusername.github.io/)
+### 기술스택
+* HTML, CSS, JS, TS: 피그마로 디자인 한 페이지 구현
+* React, Next.js: Web FE 구현
+* Django: REST API 서버 구현
+* git, jira: 협업, 개발일정 관리
+* figma: 프로토타입 디자인
 
 <br />
 
-### Languages and Tools:
+### 프로젝트
+* 포켓폴리오
+ - 3D로 방을 꾸미고 방의 사물에 포트폴리오 링크를 연결해 저장할 수 있는 서비스
+ - 맡은 파트: Three.js, 랜딩 페이지
+* 탐정: 렌즈 속 비밀
+ - 현실의 사물을 사진으로 찍으면 AI가 이를 인식해 진행하는 모바일 추리게임
+ - 맡은 파트: 캐릭터 디자인, React Native
+* 아이링크
+ - 보육시설의 알림장 학습내용을 가정의 키오스크를 통해 전달하는 서비스
+ - 맡은 파트: 키오스크 내 컴포넌트
+* 영화 추천
+ - TMDB에서 받아온 영화 정보와 리뷰데이터를 통한 영화 추천 서비스
+ - 맡은 파트: Django REST API 서버, 추천 알고리즘, 마이페이지 컴포넌트
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<!-- Add more languages and tools you are familiar with -->
-
-<br />
-<br />
 
 ---
-<!-- This section generates your GitHub stats -->
-![yourusername's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manjakang&show_icons=true&theme=tokyonight)
-
-<!--
-**yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
