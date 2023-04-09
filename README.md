@@ -1,7 +1,7 @@
 # Hi there, I'm [Your Name] 👋
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Manjakang?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Manjakang?label=Follow&style=social)
 
 ## I'm a Developer, Tech Enthusiast, and a Lifelong Learner!
 
@@ -37,7 +37,7 @@
 
 ---
 <!-- This section generates your GitHub stats -->
-![yourusername's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![yourusername's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manjakang&show_icons=true&theme=tokyonight)
 
 <!--
 **yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
